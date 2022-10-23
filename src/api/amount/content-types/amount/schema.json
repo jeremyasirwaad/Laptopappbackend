@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "amounts",
+  "info": {
+    "singularName": "amount",
+    "pluralName": "amounts",
+    "displayName": "amount",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "totalAmount": {
+      "type": "integer"
+    }
+  }
+}
